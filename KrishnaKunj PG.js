@@ -44,4 +44,4 @@ function handleMouseMove(e) {
 //we need to recalculate width when the window is resized
 function handleWindowResize() {
     width = window.innerWidth;
-}
+} 
